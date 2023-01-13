@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTwoFiles", "ReadTwoFiles\ReadTwoFiles.csproj", "{07E37BE9-37E1-44EF-A7F0-E0573412BDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E37BE9-37E1-44EF-A7F0-E0573412BDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E37BE9-37E1-44EF-A7F0-E0573412BDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E37BE9-37E1-44EF-A7F0-E0573412BDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E37BE9-37E1-44EF-A7F0-E0573412BDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC8EB2A-5C3B-43E7-A7EF-367BE4C5BCF0}
+	EndGlobalSection
+EndGlobal
